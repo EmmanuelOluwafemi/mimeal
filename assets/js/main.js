@@ -19,7 +19,7 @@ generateBtn.addEventListener("click", (e) => {
     resetBtn.classList.remove("active");
   }
 
-  generateBtn.textContent = "Get another meal";
+  generateBtn.textContent = "Toggle meal";
   // Using jQuery's animate() method to add smooth page scroll
   // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
 });
