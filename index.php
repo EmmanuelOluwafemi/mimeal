@@ -32,7 +32,7 @@
             data-aos-duration="1000">Get a meal</button>
             <button class="btn btn-outline" name="clear" data-aos="zoom-in-right"
             data-aos-anchor="#example-anchor"
-            data-aos-duration="1000">Reset</button>
+            data-aos-duration="1000">Get another meal</button>
         </form>
         
     </section>
